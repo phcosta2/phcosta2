@@ -7,10 +7,10 @@
 
 <br/>
 
-
  🔭 I’m currently looking for **Job**
  
- 🌱 I’m currently learning **Operational Systems, Compilers, Non Relationa Databases**
+🌱 I’m currently learning **Operational Systems, Compilers, Non Relational Databases**
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohlkcosta@gmail.com?subject=Assunto%20do%20Email&body=Corpo%20do%20Email)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peedrooh/)
@@ -23,29 +23,20 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,java," /><br>
 </div>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/phscosta/phcosta/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/phcosta2/phcosta2/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
 
-![snake gif](https://github.com/phcosta2/phcosta2/blob/output/github-contribution-grid-snake.gif)
-<!--
-**phcosta2/phcosta2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=phcosta2&&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcosta2&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
